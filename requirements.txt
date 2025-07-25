@@ -1,4 +1,3 @@
-tensorflow
 pandas 
 keras
 numpy 
@@ -7,3 +6,4 @@ tensorboard
 matplotlib
 streamlit
 scikeras
+tensorflow==2.18.0
